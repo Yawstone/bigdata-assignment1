@@ -1,0 +1,9 @@
+{
+  "first_name": "Yawstone",
+  "surname": "SURNAME",
+  "student_number": "N021366D",
+  "assignment": 1,
+  "title": "Basic Matrix Multiplication in Python, Java and C: Effect of Matrix Size on Runtime and Memory",
+  "github_url": "https://github.com/YOUR-USER/YOUR-REPO",
+  "ai_disclosure": "Claude (Anthropic) was used to help draft the three triple-loop implementations, the benchmark and analysis scripts, and the report structure. I reviewed and ran all code on my own machine, produced every measurement reported here, and checked the references. Edit this paragraph so it describes exactly what you did yourself and what the tool did."
+}
