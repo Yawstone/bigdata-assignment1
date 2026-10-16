@@ -17,7 +17,7 @@ BIN = ROOT / "build"
 RES = ROOT / "results"
 
 # ---------------- CONFIG ----------------
-SIZES = [10, 50, 100, 200, 400, 600, 800, 1000]
+SIZES = [10, 50, 100, 200, 400]
 TIMEOUT_S = 600                    # budget per process (all warm-up + timed reps)
 MEM_LIMIT_MB = 3000                # informational budget; stated in the report
 def reps_for(lang, n):

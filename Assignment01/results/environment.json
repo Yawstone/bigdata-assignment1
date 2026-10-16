@@ -1,0 +1,14 @@
+{
+  "cpu_model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "physical_cores": 1,
+  "logical_processors": 2,
+  "ram_gb": 7.76,
+  "os": "Linux-6.8.0-1064-azure-x86_64-with-glibc2.39",
+  "python": "3.14.2 (main, Sep 10 2026, 12:33:04) [GCC 13.3.0]",
+  "python_implementation": "CPython",
+  "gcc": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+  "java": "openjdk version \"25.0.4.1\" 2026-08-18 LTS | OpenJDK Runtime Environment Microsoft-14951822 (build 25.0.4.1+1-LTS) | OpenJDK 64-Bit Server VM Microsoft-14951822 (build 25.0.4.1+1-LTS, mixed mode, sharing)",
+  "c_flags": "-O2 (no -march=native, no -ffast-math)",
+  "java_flags": "javac default; run with -Xms512m -Xmx3g -XX:+UseSerialGC",
+  "fixed_settings": "double precision, row-major inputs from shared binary file, single thread"
+}
